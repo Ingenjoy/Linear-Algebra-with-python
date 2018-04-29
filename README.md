@@ -1,6 +1,6 @@
 # Linear-Algebra-with-python
 
-Week 1. Vectos
+Week 1. Vectors
 
 Week 2. Linear combination and spans, Linear dependence and independence
 
