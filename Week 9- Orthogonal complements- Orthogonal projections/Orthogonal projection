@@ -1,0 +1,7 @@
+
+from numpy import array
+x1=array([3,6,0])
+y2=array([1,2,2])
+print('x1=',x1)
+print('y2=',y2)
+y2.dot(x1)
